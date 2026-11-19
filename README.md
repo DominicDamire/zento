@@ -2,7 +2,7 @@
 
 Zento is a multi-tenant booking app for salons, barbers and spas. Clients book a service, a professional and a time slot; owners manage a calendar, waitlist, messages, loyalty cards and stock.
 
-**Live demo:** https://dominicdamire.github.io/zento-demo/
+**Live demo:** https://dominicdamire.github.io/zento/
 
 | Pick a time | Booked | Owner dashboard |
 |---|---|---|
